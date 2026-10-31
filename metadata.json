@@ -1,0 +1,6 @@
+{
+  "name": "Ace IT Learning System",
+  "description": "Professional IT workforce education, developer bootcamps, and career transformation platform with verified curricula and government subsidies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
